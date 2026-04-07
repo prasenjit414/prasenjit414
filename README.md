@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Prasenjit 👋
 
-<!--
-**prasenjit414/prasenjit414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer  
+📚 DSA Enthusiast (100+ LeetCode problems solved)  
+🐍 Python Developer  
+☁️ Learning AWS Cloud  
 
-Here are some ideas to get you started:
+## Skills
+- HTML, CSS, JavaScript
+- Python, C++
+- Data Structures & Algorithms
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Become a Software Engineer
+- Build scalable projects
+- Improve problem-solving skills
