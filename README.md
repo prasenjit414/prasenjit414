@@ -1,7 +1,7 @@
 # Hi, I'm Prasenjit 👋
 
 💻 Mern stack Developer  
-📚 DSA Enthusiast (100+ LeetCode problems solved)  
+📚 DSA Enthusiast (250+ LeetCode problems solved)  
 🐍 Python Developer  
 ☁️ Learning AWS Cloud  
 
