@@ -1,12 +1,12 @@
 # Hi, I'm Prasenjit 👋
 
-💻 Frontend Developer  
+💻 Mern stack Developer  
 📚 DSA Enthusiast (100+ LeetCode problems solved)  
 🐍 Python Developer  
 ☁️ Learning AWS Cloud  
 
 ## Skills
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, React
 - Python, C++
 - Data Structures & Algorithms
 - Git & GitHub
